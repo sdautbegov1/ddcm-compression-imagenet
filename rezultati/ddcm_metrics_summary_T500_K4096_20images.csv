@@ -1,0 +1,2 @@
+Model,T,K,BPP,Average PSNR,Average LPIPS,Number of images
+Manojb/stable-diffusion-2-1-base,500,4096,0.0228424072265625,22.756561611274456,0.22600316870957612,20
